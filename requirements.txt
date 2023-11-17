@@ -1,0 +1,5 @@
+streamlit
+langchain
+faiss-cpu  # or faiss-gpu depending on your system
+numpy
+pandas

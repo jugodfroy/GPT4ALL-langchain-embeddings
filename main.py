@@ -1,5 +1,5 @@
 import streamlit as st
-import lanchain_helper as lch
+import langchain_helper as lch
 import textwrap
 
 st.title("Ask any question about Julien!")

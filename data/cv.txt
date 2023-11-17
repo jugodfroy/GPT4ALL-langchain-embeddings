@@ -1,0 +1,58 @@
+JULIEN GODFROY 
++33 6 66 81 79 85     julien.godfroy.183@cranfield.ac.uk     linkedin.com/in/juliengodfroy
+College Road Cranfield Bedfordshire MK43
+PERSONAL STATEMENT 
+A dynamic and innovative French student, currently excelling in a dual-degree program at Cranfield University, focusing on MSc Computational and Software Techniques in Engineering with a specialisation in Computational Intelligence for Data Analytics. Boasting robust analytical skills and a profound interest in AI, Data Engineering, and Machine Learning, complemented by academic excellence and a passion for technology-driven solutions. Eager to apply a deep understanding of data analytics and computational intelligence in a practical, real-world setting. Fluent in both French and English, committed to making a significant impact in the technology sector.
+EDUCATION
+MSc Computational Intelligence for Data Analytics, Cranfield University, UK	September 2023 - September 2024
+-Modules: Artificial Intelligence, Machine Learning and Big Data, High Performance, Technical Computing, Cloud Computing, Small-Scale Parallel Programming, High Performance Computing, Advanced Java & Python, IoT.
+-Group Project (not started yet):  Engaged as an AI Engineer in a 12-week collaborative endeavor, working alongside a team of specialists to devise and engineer a creative software solution to a realistic problem designed to simulate a professional environment.
+-Thesis (not started yet): considering leveraging the academic insights to address a challenge sponsored by an industry partner, ensuring that the research is both practical and impactful.
+MSc Data Intelligence, ISEP, Paris, FR	September 2019 - September 2024
+-Modules: Artificial Intelligence, Machine Learning, Big Data & databases, Tools for BI, Data Analysis, Semantic Web and knowledge management, Digital Transformation Consulting, Management of IT.
+-Group Projects: Creation of a machine learning model capable of identifying the race of a ladybird from a simple image with an accuracy of 97%, Creation of a pipeline, Analysis of the Youtube recommendation algorithm from scrapped data stored on Elastic, transformed with dbt, scheduled with Airflow, Creation of a sales proposal to support a major group in its migration to the Cloud, Data analysis of an airline satisfaction questionnaire, to understand customer satisfaction invoices.
+International Academic Semester, Czech Technical University, Prague	September 2020 - February 2021
+-Modules: Network & Operating System, Digital Engineering, Discrete Mathematics and Graphs, Programming, Environmental Science, Business Economics.
+-Projects: Creation a custom Linux image with advanced monitoring features to monitor memory management, Creation of 5 card games in Java (blackjack, memory, etc.), Drawn up a complete business plan for a solution capable of optimising the use of empty offices and making them profitable.
+PROFESSIONAL EXPERIENCE
+Siemens Digital Industries, Paris, Data Engineer Intern	July 2022 - December 2022
+Innovation and technology leader in industrial automation and digitalisation
+-Led the migration of a complex multidimensional Essbase calculation to the Cloud, reducing processing time by 300% (Snowflake, dbt, Python).
+-Creation of a prototype NLP-based machine learning model to extract information from a request for a quotation in non-formalised emails, with an accuracy of 93%.
+-Played a major role in migrating the on premise datawarehouse to a Snowflake Cloud datawarehouse, creating more than 100 tables.
+-Streamlined and automated the process of updating 4 product databases, enhancing operational efficiency and accuracy.
+-Engineered and deployed robust data transformation pipelines using Knime for efficient ETL processes.
+National Confederation of Junior-Enterprises, Paris, Auditor
+January 2023 - Present
+National organisation that oversees all French Junior-Enterprise
+-Conducted comprehensive full-day audits of Junior-Enterprise operations, ensuring strict adherence to legal and regulatory requirements.
+-Evaluated and optimised key processes including strategy, commercial activity, human resources management, and legal compliance.
+-Offered strategic advice and process optimisation recommendations to enhance the overall efficiency and effectiveness of the Junior-Enterprise.
+Junior ISEP, Paris, Quality & Audit Manager	July 2022 - July 2023
+Student-run consulting firm (called Junior-Enterprise), created in 1984, that provides professional services to clients (WebApp, Data analysis, Software). ISO 9001 certified, 200k€ turnover, 40 members, 70 projects each year.
+-Orchestrated the management of a 40-member board, focusing on business development strategies that propelled sales to achieve a remarkable 200k euros milestone.
+-Spearheaded KPI optimisation initiatives, driving efficiency and performance improvements.
+-Engineered and implemented data monitoring tools, enhancing quality control processes.
+-Ensured the renewal of ISO 9001 standard accreditation issued by AFNOR, demonstrating unwavering commitment to quality standards, resulting in the pass of the audit with 0 nonconformity.
+-Conducted rigorous and ongoing audits of 50 studies and processes, ensuring adherence to established quality benchmarks.
+
+Junior ISEP, Paris, IT Project Manager	October 2021 - July 2022
+-Orchestrated end-to-end project lifecycles, from contract initiation to archival, ensuring seamless execution and stakeholders’ satisfaction.
+-Managing a team of a team of 7 IT consultants for the development of a B2B platform to put pharmacists in touch with laboratories for a 1-year study costing 15,000 euros, following the Scrum methodology.
+-Carried out sales development actions through rigorous qualification of prospects and a proactive telephone approach (50 calls a week).
+-Wrote dozens of compelling sales proposals, contracts and specifications, with a keen eye for detail and customer-focused solutions, resulting in 5 contracts worth a total of €30,000.
+Junior ISEP, Paris, IT Consultant	January 2020 - September 2021
+-Orchestrated the development and launch of a dynamic website for an esteemed architecture firm, showcasing portfolio and enhancing online presence.
+-Initiated 10 comprehensive interviews with key personnel at Paris City Hall, responsible for the Information System, to gain profound insights into operational workflows and technological requirements.
+Sleeq Media, Paris, Low-Code Web Developer Intern	June 2021 - August 2021
+Leading French TikTok agency for brand advertising campaigns
+-Spearheaded the prototyping phase for a dynamic web platform, "Qeels.io," dedicated to hosting TikTok video contests aimed at boosting artists' music titles.
+-Successfully brought the platform to fruition, resulting in the promotion of one track with an impressive 250+ contest entries and an astounding 7 million views. Since, the start-up is incubated in the most selective French incubator.
+-Defined comprehensive platform specifications and selected the optimal technology stack for seamless development.
+SKILLS, INTERESTS AND EXTRACURRICULAR ACTIVITIES
+-Languages: English (Professional), French (Native), Spanish (Basics).
+-Tools: Snowflake, dbt, Airflow, Elastic, git, AWS, Spark, Docker, HPC, Kafka.
+-Dev: Python, Java, C++, PHP, JS, React.
+-AI & Machine Learning: NLP, Vision Computing, TensorFlow, SpiCy, OpenCV.
+-Certifications: Scrum Master, IELTS 7, dbt, Snowflake, Driving licence.
+-Interests: International travel, Competitive Tennis, Half-Marathon runner, Freedom of motorcycling, Computing.
